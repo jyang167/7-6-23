@@ -1,6 +1,8 @@
 ---
-title: This is a fifth post (draft)
-date: 2023-01-23
-draft: true
+title: This is my fifth post
+description: This is a post on my blog about iPhones.
+date: 2023-06-15
+tags:
+    - number 5
 ---
-This is a draft post
+Apple's latest flagships are the iPhone 14 Pro and 14 Pro Max models
